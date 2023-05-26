@@ -4,3 +4,4 @@ red
 blue
 yellow
 gold
+silver
