@@ -3,3 +3,4 @@ black
 red
 blue
 yellow
+gold
